@@ -2,59 +2,59 @@
 
 #### DISEÑO ELECTRÓNICO DEL CONCEPTO DE SOLUCIÓN
 
+<img src="/multimedia/ESQUEMA_ELECTRONICO.jpg" alt="Gráfico de resultados" width="700">
+
 #### MODELADO 3D DE LOS COMPONENTES POR SEPARADO
 
-#### Servomotor: 
+##### Servomotor: 
 
 https://cad.onshape.com/documents/d18ecff32aceee6ca4fc7d13/w/b0a4437099ae9c7376590bc1/e/6361a5e5d73f5f7f958dbb76 
 
-<img src="/multimedia/SERVOMOTOR.jpg" alt="Gráfico de resultados" width="700">
+<img src="/multimedia/SERVOMOTOR.jpg" alt="Gráfico de resultados" width="500">
 
 
 
-#### Batería: 
+##### Batería: 
 
 https://cad.onshape.com/documents/446cbb484de9bfecd5765d17/w/492e3acaf23785eb5822a4fb/e/b314491b5373fcdcdcc85ff7 
 
-<img src="/multimedia/BATERIA.jpg" alt="Gráfico de resultados" width="700">
+<img src="/multimedia/BATERIA.jpg" alt="Gráfico de resultados" width="500">
 
 
-#### Electrodo: 
-
+##### Electrodo: 
 
  https://cad.onshape.com/documents/27120a4abff23b301581f00c/w/0852824dcd18885957868825/e/57096d36c5b4fb4c134d6a72 
 
 
+<img src="/multimedia/ELECTRODO.jpg" alt="Gráfico de resultados" width="500">
 
-<img src="/multimedia/ELECTRODO.jpg" alt="Gráfico de resultados" width="700">
 
-
-#### Sensor EMG:
+##### Sensor EMG:
 
 https://cad.onshape.com/documents/2181d707c758726e8183b715/w/1ff9204be20e6def53d77110/e/5c3f1783da41f3f021e200bc 
 
-<img src="/multimedia/SENSOR_EMG.jpg" alt="Gráfico de resultados" width="700">
+<img src="/multimedia/SENSOR_EMG.jpg" alt="Gráfico de resultados" width="500">
 
 
-#### ESP32:
+##### ESP32:
 
 https://cad.onshape.com/documents/54ba88178d8b046ed3dcb700/w/33930330d318083d781258a8/e/306e394fd6b69446935a3814 
-<img src="/multimedia/ESP32.jpg" alt="Gráfico de resultados" width="700">
+<img src="/multimedia/ESP32.jpg" alt="Gráfico de resultados" width="500">
 
-#### Modelado primer dedo:
+##### Modelado primer dedo:
 
-<img src="/multimedia/MODELADO_PULAGR.jpg" alt="Gráfico de resultados" width="700">
+<img src="/multimedia/MODELADO_PULAGR.jpg" alt="Gráfico de resultados" width="500">
 
-#### Modelado segundo dedo:
-<img src="/multimedia/MODELADO_INDICE.jpg" alt="Gráfico de resultados" width="700">
+##### Modelado segundo dedo:
+<img src="/multimedia/MODELADO_INDICE.jpg" alt="Gráfico de resultados" width="500">
 
-#### Modelado tercer dedo:
+##### Modelado tercer dedo:
 
-<img src="/multimedia/MODELADO_MEDIO.jpg" alt="Gráfico de resultados" width="700">
+<img src="/multimedia/MODELADO_MEDIO.jpg" alt="Gráfico de resultados" width="500">
 
-#### Modelado cuarto dedo:
+##### Modelado cuarto dedo:
 
-<img src="/multimedia/MODELADO_ANULAR.jpg" alt="Gráfico de resultados" width="700">
+<img src="/multimedia/MODELADO_ANULAR.jpg" alt="Gráfico de resultados" width="500">
 
 #### PLAN DE USABILIDAD BASADO EN EVIDENCIAS
 
