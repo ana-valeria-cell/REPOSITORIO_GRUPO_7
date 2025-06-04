@@ -4,7 +4,7 @@
 
 #### MODELADO 3D DE LOS COMPONENTES POR SEPARADO
 
-##### Servomotor: 
+#### Servomotor: 
 
 https://cad.onshape.com/documents/d18ecff32aceee6ca4fc7d13/w/b0a4437099ae9c7376590bc1/e/6361a5e5d73f5f7f958dbb76 
 
@@ -12,14 +12,14 @@ https://cad.onshape.com/documents/d18ecff32aceee6ca4fc7d13/w/b0a4437099ae9c73765
 
 
 
-##### Batería: 
+#### Batería: 
 
 https://cad.onshape.com/documents/446cbb484de9bfecd5765d17/w/492e3acaf23785eb5822a4fb/e/b314491b5373fcdcdcc85ff7 
 
 <img src="/multimedia/BATERIA.jpg" alt="Gráfico de resultados" width="700">
 
 
-##### Electrodo: 
+#### Electrodo: 
 
 
  https://cad.onshape.com/documents/27120a4abff23b301581f00c/w/0852824dcd18885957868825/e/57096d36c5b4fb4c134d6a72 
@@ -29,51 +29,37 @@ https://cad.onshape.com/documents/446cbb484de9bfecd5765d17/w/492e3acaf23785eb582
 <img src="/multimedia/ELECTRODO.jpg" alt="Gráfico de resultados" width="700">
 
 
-
-
-
-
-
-
-##### Sensor EMG:
+#### Sensor EMG:
 
 https://cad.onshape.com/documents/2181d707c758726e8183b715/w/1ff9204be20e6def53d77110/e/5c3f1783da41f3f021e200bc 
 
 <img src="/multimedia/SENSOR_EMG.jpg" alt="Gráfico de resultados" width="700">
 
 
-
-
-
-
-
-
-
-
-##### ESP32:
+#### ESP32:
 
 https://cad.onshape.com/documents/54ba88178d8b046ed3dcb700/w/33930330d318083d781258a8/e/306e394fd6b69446935a3814 
 <img src="/multimedia/ESP32.jpg" alt="Gráfico de resultados" width="700">
 
-
-##### Modelado primer dedo:
+#### Modelado primer dedo:
 
 <img src="/multimedia/MODELADO_PULAGR.jpg" alt="Gráfico de resultados" width="700">
 
-##### Modelado segundo dedo:
+#### Modelado segundo dedo:
 <img src="/multimedia/MODELADO_INDICE.jpg" alt="Gráfico de resultados" width="700">
 
-##### Modelado tercer dedo:
+#### Modelado tercer dedo:
 
 <img src="/multimedia/MODELADO_MEDIO.jpg" alt="Gráfico de resultados" width="700">
 
-##### Modelado cuarto dedo:
+#### Modelado cuarto dedo:
 
 <img src="/multimedia/MODELADO_ANULAR.jpg" alt="Gráfico de resultados" width="700">
 
 #### PLAN DE USABILIDAD BASADO EN EVIDENCIAS
 
-## 📄 Artículo 1: Diseño y construcción de una mano biomecánica controlada con señales EMG
+
+### Artículo 1: Diseño y construcción de una mano biomecánica controlada con señales EMG
 
 | Ítem                  | Detalle |
 |-----------------------|---------|
@@ -83,7 +69,7 @@ https://cad.onshape.com/documents/54ba88178d8b046ed3dcb700/w/33930330d318083d781
 | **Eficacia**          | Capacidad de realizar agarres básicos |
 | **Eficienc**
 
-## 📄 Artículo 2: Design and assessment of a low-cost, electromyographically controlled, prosthetic hand
+### Artículo 2: Design and assessment of a low-cost, electromyographically controlled, prosthetic hand
 
 | Ítem                  | Detalle |
 |-----------------------|---------|
@@ -97,11 +83,11 @@ https://cad.onshape.com/documents/54ba88178d8b046ed3dcb700/w/33930330d318083d781
 | **Evidencia recogida**| Resultados cuantitativos (% de éxito, tiempo promedio) y cualitativos (satisfacción, comodidad, ergonomía) |
 | **Lecciones aplicables** | Sistemas simples pueden ser funcionales y bien valorados por usuarios; importancia de realizar pruebas con usuarios finales |
 
-🔗 **Fuente:** [Polisiero et al. (2013)](https://doi.org/10.2147/MDER.S39604)
 
 
 
-## 📄 Artículo 3: Implementación de un prototipo de prótesis con control muscular para mejora del movimiento y agarre de objetos
+
+### Artículo 3: Implementación de un prototipo de prótesis con control muscular para mejora del movimiento y agarre de objetos
 
 | Ítem                  | Detalle |
 |-----------------------|---------|
@@ -115,6 +101,15 @@ https://cad.onshape.com/documents/54ba88178d8b046ed3dcb700/w/33930330d318083d781
 | **Evidencia recogida**| Margen de error en EMG (5%), precisión del agarre (90%), tiempos de respuesta |
 | **Lecciones aplicables** | Integración efectiva de EMG con control inalámbrico; importancia de una calibración precisa y de una interfaz intuitiva |
 
-🔗 **Fuente:** Guacho Rivera (2022), *Investigación Tecnológica ISTCT*, vol. 4, n.º 2.
+
+🔗 **Fuentes:**
+
+
+[1]T. S. C. Manuel, M. I. Pisarello, B. N. M. Alejandro, and J. E. Monzón, “Diseño y construcción de una mano biomecánica controlada con señales EMG,” Oct. 05, 2021. http://repositorio.unne.edu.ar/handle/123456789/55625
+
+[2]Polisiero, M., Bifulco, P., Liccardo, A., Cesarelli, M., Romano, M., Gargiulo, G. D., McEwan, A. L., & D'Apuzzo, M. (2013). Design and assessment of a low-cost, electromyographically controlled, prosthetic hand. Medical devices (Auckland, N.Z.), 6, 97–104. https://doi.org/10.2147/MDER.S39604
+
+[3]D. D. Guacho Rivera, « aplicada a personas con muñón o malformación en los dedos de la mano»., Investigación Tecnológica ISTCT, vol. 4, n.º 2, dic. 2022.
+
 
 
