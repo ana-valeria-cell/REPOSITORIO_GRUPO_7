@@ -117,19 +117,19 @@ https://cad.onshape.com/documents/54ba88178d8b046ed3dcb700/w/33930330d318083d781
 
 Este plan detalla los aspectos clave para el diseño y la evaluación de un prototipo de **mano biomecánica controlada por señales electromiográficas (EMG)**. El objetivo es asegurar que el dispositivo sea usable, eficaz y seguro para las personas que han sufrido amputaciones o malformaciones en la mano.
 
----
+
 
 ## ¿Qué hacer?
 
 El plan se divide en cuatro secciones principales: **Contexto de Uso**, **Perfil del Usuario**, **Análisis de Tareas** y **Criterios de Éxito**. Cada sección aborda preguntas específicas y define el tipo de evidencia necesaria para guiar el desarrollo del prototipo.
 
----
+
 
 ## ¿Qué evidencia deben incluir?
 
 La evidencia incluirá desde **modelos 3D y bocetos** hasta **tablas con métricas de usabilidad y datos de casos**.
 
----
+
 
 ## 1. Contexto de Uso
 
@@ -147,7 +147,7 @@ Este dispositivo, una **mano biomecánica controlada por señales EMG**, está d
 * **Modelado 3D o boceto** que muestre la mano biomecánica colocada en un usuario, interactuando con objetos comunes en un entorno doméstico (ej. sosteniendo un vaso, manipulando un objeto).
 * **Diagramas de flujo** que ilustren el proceso de colocación y retiro del dispositivo, y cómo se integraría en la rutina diaria del usuario.
 
----
+
 
 ## 2. Perfil del Usuario
 
@@ -172,7 +172,7 @@ El perfil del usuario es crucial para adaptar el diseño del prototipo a sus nec
 * **Datos del caso seleccionado:** Para un diseño específico, se deben incluir datos antropométricos del muñón, un breve historial médico (tipo de amputación, tiempo desde la amputación) y, si es posible, una evaluación cognitiva básica para entender las habilidades de aprendizaje del usuario.
 * **Entrevistas o cuestionarios a usuarios potenciales** (o cuidadores) para recabar información sobre sus expectativas, desafíos actuales y preferencias de uso.
 
----
+
 
 ## 3. Análisis de Tareas
 
@@ -203,7 +203,7 @@ Es fundamental identificar y analizar las tareas que el usuario realizará con l
 * **Justificación de por qué son críticas:** Para cada tarea crítica, una breve explicación de las posibles consecuencias de su realización incorrecta.
 * **Secuencias de video o fotografías** que muestren a un usuario realizando estas tareas con un prototipo o una mano simulada, destacando los puntos de interacción y posibles dificultades.
 
----
+
 
 ## 4. Criterios de Éxito (Requisitos de Usabilidad)
 
